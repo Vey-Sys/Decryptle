@@ -61,7 +61,7 @@ def check_guess(original, guess_message):
         return True
     return False
 
-def play():
+def play_substitution():
     substitution_keys = get_encrypted_alphabet()
     cipher_message = encrypt_message(MESSAGE, substitution_keys)
     guess_keys = init_user_alphabet(substitution_keys)
@@ -73,7 +73,7 @@ def play():
             input("Press enter to quit...  ")
             quit()
 
-play()
+play_substitution()
 # # test = ['a', 'b', 'c', 'd', 'e']
 #
 # print(get_encrypted_alphabet())
