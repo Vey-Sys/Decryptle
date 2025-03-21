@@ -1,0 +1,35 @@
+Positive airway pressure (PAP) is a mode of respiratory ventilation used in the treatment of sleep apnea.
+PAP ventilation is also commonly used for those who are critically ill in hospital with respiratory failure,
+in newborn infants (neonates), and for the prevention and treatment of atelectasis in patients with difficulty
+taking deep breaths.
+=====
+https://en.wikipedia.org/wiki/Positive_airway_pressure
+*****
+Arachnula is a genus of amoeboid eukaryotes first described by Leon Cienkowski in 1876.
+Its phylogenetic position is a subject of some controversy. David Bass and colleagues considered it to be
+a vampyrellid within the Endomyxa clade of Rhizaria,[3] and the SSU rDNA sequence isolated from an organism
+described as Arachnula impatiens is indeed very close to that of the vampyrellid Theratromyxa.
+=====
+https://en.wikipedia.org/wiki/Arachnula
+*****
+Particle Fever is a 2013 American documentary film tracking the first round of experiments at the Large Hadron
+Collider (LHC) near Geneva, Switzerland. The film follows the experimental physicists at the European Organization
+for Nuclear Research (CERN) who run the experiments, as well as the theoretical physicists who attempt to provide
+a conceptual framework for the LHC's results.
+=====
+https://en.wikipedia.org/wiki/Particle_Fever
+*****
+In cryptography, a substitution cipher is a method of encrypting in which units of plaintext are replaced with
+the ciphertext, in a defined manner, with the help of a key; the "units" may be single letters (the most common),
+pairs of letters, triplets of letters, mixtures of the above, and so forth. The receiver deciphers the text by
+performing the inverse substitution process to extract the original message.
+=====
+https://en.wikipedia.org/wiki/Substitution_cipher
+*****
+In cryptography, encryption (more specifically, encoding) is the process of transforming information in a way
+that, ideally, only authorized parties can decode. This process converts the original representation of the
+information, known as plaintext, into an alternative form known as ciphertext. Despite its goal, encryption
+does not itself prevent interference but denies the intelligible content to a would-be interceptor.
+=====
+https://en.wikipedia.org/wiki/Encryption
+*****
